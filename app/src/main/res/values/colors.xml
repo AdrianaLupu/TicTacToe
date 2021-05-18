@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_blue">#0a1b39</color>
+    <color name="blue">#005977</color>
+    <color name="green">#007179</color>
+    <color name="beige">#e3be91</color>
+    <color name="yellow">#e69f5f</color>
+    <color name="orange">#e65b20</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="dark_red">#b1221e</color>
+    <color name="dark_green">#157565</color>
+    <color name="pale_yellow">#fee79d</color>
+    <color name="nude">#fbc2ae</color>
+
+    <color name="background">#FFF6DB</color>
+
+
+    <color name="score_view">#ffffff</color>
+    <color name="reset_button_bg">#03858b</color>
+    <color name="reset_button_st">#076063</color>
+    <color name="points_text">#000000</color>
+
+    <color name="ttt_button_bg">#007179</color>
+    <color name="ttt_button_st">#E69F5F</color>
+    <color name="ttt_text">#ffffff</color>
+
+
+
+
+</resources>
